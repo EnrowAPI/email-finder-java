@@ -30,7 +30,8 @@ public final class EmailFinder {
      * Start a single email-finder search.
      *
      * <p>Required key in {@code params}: {@code "fullname"}.
-     * Optional keys: {@code "company_domain"}, {@code "company_name"}, {@code "settings"}.</p>
+     * Optional keys: {@code "company_domain"}, {@code "company_name"}, {@code "custom"}, {@code "settings"}.
+     * Settings may include {@code "country_code"}, {@code "retrieve_gender"}, {@code "webhook"}.</p>
      *
      * @param apiKey Enrow API key
      * @param params request body fields
