@@ -2,6 +2,8 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.enrow/email-finder.svg)](https://central.sonatype.com/artifact/io.enrow/email-finder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/EnrowAPI/email-finder-java)](https://github.com/EnrowAPI/email-finder-java)
+[![Last commit](https://img.shields.io/github/last-commit/EnrowAPI/email-finder-java)](https://github.com/EnrowAPI/email-finder-java/commits)
 
 Find verified professional email addresses from a name and company. Integrate email discovery into your sales pipeline, CRM sync, or lead generation workflow.
 
@@ -100,7 +102,7 @@ Paid plans start at **$17/mo** for 1,000 emails up to **$497/mo** for 100,000 em
 ## Documentation
 
 - [Enrow API documentation](https://docs.enrow.io)
-- [Full Enrow SDK](https://github.com/enrow/enrow-java) — includes email verifier, phone finder, reverse email lookup, and more
+- [Full Enrow SDK](https://github.com/EnrowAPI/enrow-java) — includes email verifier, phone finder, reverse email lookup, and more
 
 ## License
 
